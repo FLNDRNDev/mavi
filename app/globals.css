@@ -187,11 +187,11 @@
   }
 
   .profile-name {
-    @apply text-24 font-semibold text-gray-900;
+    @apply text-18 font-semibold text-gray-900;
   }
 
   .profile-email {
-    @apply text-16 font-normal text-gray-600;
+    @apply text-14 font-normal text-gray-600;
   }
 
   .banks {
@@ -377,7 +377,7 @@
   }
 
   .sidebar-logo {
-    @apply 2xl:text-26 font-ibm-plex-serif text-[26px] font-bold text-black-1 max-xl:hidden;
+    @apply xl:text-18 font-ibm-plex-serif text-[18px] font-bold text-black-1 max-xl:hidden;
   }
 
   .sidebar-link {
@@ -385,6 +385,6 @@
   }
 
   .sidebar-label {
-    @apply text-16 font-semibold text-black-2 max-xl:hidden;
+    @apply text-14 font-semibold text-black-2 max-xl:hidden;
   }
 }
